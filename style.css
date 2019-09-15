@@ -1,0 +1,10 @@
+p {
+    border: 1px solid powderblue;
+    padding: 30px;
+  }
+
+  h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+  }
